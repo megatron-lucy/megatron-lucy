@@ -1,12 +1,16 @@
 - 🌱 Hi, I’m @megatron-lucy
-- 🌱 I’m currently learning ascii-encoded text files
-- 🌱 I’m interested in ascii-encoded text files
+- 🌱 I’m currently learning linux
+- 🌱 I’m interested in bash
 - 🌱 I’m looking to collaborate on every type repository issue including feature requests
 - 💞️ How to reach me is:
 
 `/msg MemoServ g_guest Hey I am "username" on github, I want to tell you that 'I am awesome', irc.freenode.net/6697 -ssl is sweet, I like it here`
 
 News:
+
+2022.77014002081217790254
+Just what I needed again:
+https://github.com/BetweenWalls/PD2-Singleplayer/blob/main/Diablo%20II/Save/Legacy.d2s
 
 
 2022.76943504048153157510
