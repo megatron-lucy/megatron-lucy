@@ -1,6 +1,6 @@
 - 🌱 Hi, I’m @megatron-lucy
-- 🌱 I’m currently learning linux
-- 🌱 I’m interested in bash
+- 🌱 I’m currently learning all
+- 🌱 I’m interested in converting "Hello world!\n" to stdout program utility to @utility as 10,746,999 length list
 - 🌱 I’m looking to collaborate on every type repository issue including feature requests
 - 💞️ How to reach me is:
 
@@ -9,7 +9,6 @@
 News:
 
 2022.77525607958153366403
-Check this out: (xxx) https://github.com/up-for-grabs/up-for-grabs.net
 Just what I needed: (topic: Kindle Windows app) https://gist.github.com/BorysVrublevskyi/80b3596be2cdbaf165efcf55712eb366
 
 2022.77014002081217790254
