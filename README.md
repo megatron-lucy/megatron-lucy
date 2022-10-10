@@ -8,6 +8,10 @@
 
 News:
 
+2022.77525607958153366403
+Check this out: (xxx) https://github.com/up-for-grabs/up-for-grabs.net
+Just what I needed: (topic: Kindle Windows app) https://gist.github.com/BorysVrublevskyi/80b3596be2cdbaf165efcf55712eb366
+
 2022.77014002081217790254
 Just what I needed again:
 https://github.com/BetweenWalls/PD2-Singleplayer/blob/main/Diablo%20II/Save/Legacy.d2s
