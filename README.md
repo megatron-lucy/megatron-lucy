@@ -8,6 +8,12 @@
 
 News:
 
+2022.80868134333867327334
+
+`github = user95f85f (pw hint: too difficult)`
+
+`email = user9de1d at gmail.com (pw hint: too difficult, hacked diablo 2 character related)`
+
 2022.77525607958153366403
 Just what I needed: (topic: Kindle Windows app) https://gist.github.com/BorysVrublevskyi/80b3596be2cdbaf165efcf55712eb366
 
