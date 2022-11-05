@@ -1,18 +1,22 @@
-- 🌱 Hi, I’m @megatron-lucy
-- 🌱 I’m currently learning all
-- 🌱 I’m interested in converting "Hello world!\n" to stdout program utility to @utility as 10,746,999 length list
-- 🌱 I’m looking to collaborate on every type repository issue including feature requests
+- 🌱 Hi, I’m @megatron-lucy, sup
+- 🌱 I’m learnin
+- 🌱 I’m interested in Perl 5.* with Bash 5.*
+- 🌱 I’m looking to see what I can do
 - 💞️ How to reach me is:
+
+`email = cdale0221 at gmail.com`
 
 `/msg MemoServ g_guest Hey I am "username" on github, I want to tell you that 'I am awesome', irc.freenode.net/6697 -ssl is sweet, I like it here`
 
 News:
 
-2022.80868134333867327334
+2022.90341721271241231427
 
-`github = user95f85f (pw hint: too difficult)`
+https://gist.githubusercontent.com/megatron-lucy/c725fc6722298997967599315a587b05/raw/41c8af69cb8c31b9001307107510c1e6cf8c0b90/w2p.pl
 
-`email = user9de1d at gmail.com (pw hint: too difficult, hacked diablo 2 character related)`
+https://gist.github.com/megatron-lucy/c725fc6722298997967599315a587b05
+
+https://github.com/user95f85f `email = user9de1d at gmail.com`
 
 2022.77525607958153366403
 Just what I needed: (topic: Kindle Windows app) https://gist.github.com/BorysVrublevskyi/80b3596be2cdbaf165efcf55712eb366
