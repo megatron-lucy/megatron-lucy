@@ -1,14 +1,15 @@
-- 🌱 Hi, I’m @megatron-lucy, sup
-- 🌱 I’m learnin
-- 🌱 I’m interested in Perl 5.* with Bash 5.*
-- 🌱 I’m looking to see what I can do
+- 🌱 Hi, I’m @megatron-lucy, hi
+- 🌱 I’m learning.
+- 🌱 I’m interested in condensing information everywhere using Bash 5, HTML 5, Perl 5 as much as possible.
+- 🌱 I’m looking to see how far I can go.
 - 💞️ How to reach me is:
 
 `email = cdale0221 at gmail.com`
 
-`/msg MemoServ g_guest Hey I am "username" on github, I want to tell you that 'I am awesome', irc.freenode.net/6697 -ssl is sweet, I like it here`
-
 News:
+2022.9114121142
+
+character translate within string javascript tool: https://megatron-lucy.github.io/README.html
 
 2022.90341721271241231427
 
