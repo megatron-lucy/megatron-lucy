@@ -7,6 +7,13 @@
 `email = cdale0221 at gmail.com`
 
 News:
+
+2022.921241231242113
+
+the internet is currently 6,000 things.
+
+my web page as my gateway, where gateway is what I'm doing through the internet, is https://megatron-lucy.github.io/
+
 2022.9114121142
 
 character translate within string javascript tool: https://megatron-lucy.github.io/README.html
